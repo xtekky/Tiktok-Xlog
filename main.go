@@ -59,7 +59,6 @@ func rotMess(x uint32) uint32 {
 	// removed from preview
 }
 
-// Endian swap
 func reverseBytes(x uint32) uint32 {
 	// removed from preview
 }
