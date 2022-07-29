@@ -5,7 +5,7 @@
 @price: 500€
 @author: t.me/xtekky
 @file: xlog.py
-@state: preview
+@version: Latest Xlog v 02 - preview
 """
 
 import binascii
