@@ -1,4 +1,5 @@
-xlog 02: 900€ (.py, .php)
+xlog 02: 900€ (.py, .php) (encryption/decryption algorithm)
+xlog/applog - device registration/validation process = 1500€ (full .py)
 
 #### To generate valid device id's on tiktok, used to bypass ratelimits, there are two processes.
 - The first step is called applog, you just send a bunch of device info to tiktok.
