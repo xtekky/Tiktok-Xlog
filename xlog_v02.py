@@ -2,7 +2,7 @@
 #-*- coding:utf-8 -*-
 
 """
-@price: 500€
+@price: 900€
 @author: t.me/xtekky
 @file: xlog.py
 @version: Latest Xlog v 02 - preview
