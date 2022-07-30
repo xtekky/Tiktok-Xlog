@@ -1,8 +1,5 @@
 xlog 02: 900€ (.py, .php)
 
-xlog 01: 100€ (.go)
-
-
 #### To generate valid device id's on tiktok, used to bypass ratelimits, there are two processes.
 - The first step is called applog, you just send a bunch of device info to tiktok.
 - The second step is to validate these device id's. The process is made of a multitude of requests made to the api.
