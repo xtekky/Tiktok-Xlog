@@ -1,6 +1,6 @@
-xlog 02: 900€ (.py, .php) (encryption/decryption algorithm)
+xlog 02: 299€ (.py, .php) (encryption/decryption algorithm)
 
-xlog/applog - device registration/validation process = 1500€ (full .py)
+xlog/applog - device registration/validation process = 899€ (full .py)
 
 ![image](https://user-images.githubusercontent.com/98614666/182003263-ee4241d0-09c4-455e-afbc-d69901369626.png)
 
